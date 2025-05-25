@@ -1,0 +1,5 @@
+/* style.css */
+textview.monospace {
+    font-family: Monospace;
+    font-size: 9pt; /* Adjust as needed for readability */
+}
